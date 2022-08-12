@@ -1,0 +1,4 @@
+courseId| int| Primary
+courseName| String
+credits| int
+ProfessorId|int |Foreign | Professors

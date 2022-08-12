@@ -1,0 +1,5 @@
+courseId|courseName|credits
+23|SDC|6
+24|DMWA|3
+25|Cloud|3
+26|ASDC|3

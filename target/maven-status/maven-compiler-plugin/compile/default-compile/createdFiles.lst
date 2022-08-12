@@ -1,0 +1,8 @@
+registeration/Register.class
+utils/Utils.class
+registeration/Login.class
+utils/Constants.class
+executor/QueryExecutor.class
+parser/QueryParser.class
+executor/WriteQuery.class
+main/Main.class

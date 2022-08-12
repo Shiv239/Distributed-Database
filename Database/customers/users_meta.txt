@@ -1,0 +1,6 @@
+id| INT| PRIMARY
+firstname| TEXT
+lastName| TEXT
+city| TEXT
+state| TEXT
+country| TEXT
